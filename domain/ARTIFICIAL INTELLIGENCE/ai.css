@@ -389,7 +389,7 @@ a {
 /* banner section */
 .home {
     position: relative;
-    background: url('images/home.png') no-repeat center center;
+    background: url('./IMAGES/home.png') no-repeat center center;
     background-size: cover;
     color: white;
     height: 80vh;
